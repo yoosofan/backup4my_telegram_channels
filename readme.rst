@@ -9,7 +9,7 @@ Main channels:
 Backups:
 
 #. `<political_views/>`_
-#. `<crypto_in_farsi>`_
+#. `<crypto_in_farsi/>`_
 
 Issues
 ======
