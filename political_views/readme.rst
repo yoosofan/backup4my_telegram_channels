@@ -7,7 +7,7 @@ This channel was created on October 12, 2017.
 
 Here is the list of channel backups ordered by their interval end date:
 
-#. `<2024-03-24/>`_
-#. `<2025-01-08/>`_
-#. `<2026-03-07/>`_
+#. `<2024-03-24/messages.html>`_
+#. `<2025-01-08/messages.html>`_
+#. `<2026-03-07/messages.html>`_
 
