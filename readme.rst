@@ -1,10 +1,15 @@
 ================================
 Backups of my telegram channels
 ================================
+Main channels:
+
 #. `My political views <https://t.me/ahmadyoosofan>`_
-    * `political_views <https://github.com/yoosofan/backup4my_telegram_channels/tree/main/political_views>`_
 #. `Crypto in Farsi <https://t.me/crypto_in_farsi>`_
-    * `crypto_in_farsi <https://github.com/yoosofan/backup4my_telegram_channels/tree/main/crypto_in_farsi>`_
+
+Backups:
+
+#. `<political_views/>`_
+#. `<crypto_in_farsi>`_
 
 Issues
 ======
